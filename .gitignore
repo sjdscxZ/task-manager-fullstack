@@ -1,0 +1,15 @@
+target/
+node_modules/
+dist/
+.vite/
+*.log
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.mvn/
+mvnw
+mvnw.cmd
+.DS_Store
